@@ -1,0 +1,19 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "exploring javascript ",
+  "main": "if-statement.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyas1925/javascripting.git"
+  },
+  "author": "Shreyas Shettigar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyas1925/javascripting/issues"
+  },
+  "homepage": "https://github.com/shreyas1925/javascripting#readme"
+}
